@@ -1,0 +1,15 @@
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\bin\Debug\net6.0\Sem2_DZ.exe
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\bin\Debug\net6.0\Sem2_DZ.deps.json
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\bin\Debug\net6.0\Sem2_DZ.runtimeconfig.json
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\bin\Debug\net6.0\Sem2_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\bin\Debug\net6.0\Sem2_DZ.pdb
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.csproj.AssemblyReference.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.AssemblyInfoInputs.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.AssemblyInfo.cs
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.csproj.CoreCompileInputs.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\refint\Sem2_DZ.dll
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.pdb
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\Sem2_DZ.genruntimeconfig.cache
+C:\Users\s-tikhomirov\Desktop\C# TSO\Examples\Sem01\Sem2\Sem2_DZ\obj\Debug\net6.0\ref\Sem2_DZ.dll
